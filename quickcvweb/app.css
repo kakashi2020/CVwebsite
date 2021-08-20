@@ -1,0 +1,162 @@
+html, body {
+    font-family: fantasy;
+    margin: 0;
+    background-color: cornsilk;
+}
+
+hr {
+    width: 650px;
+}
+
+#navigationbar {
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 30px;
+    margin: 20px;
+    background-color: cornsilk; /**Testing**/
+    position: fixed; /**Testing**/
+    padding: 15px 15px; /**Testing**/
+    margin-top: 5px; /**Testing**/
+    margin-left: 370px; /**Testing**/
+    width: 750px; /**Testing**/
+}
+
+#navigationbar a {
+    color: black;
+    text-decoration: none;
+}
+
+#navigationbar a:hover {
+    color: blue;
+}
+
+.summary {
+    width: 730px;
+    height: 95%;
+    background-color: rgb(247, 233, 181);
+    margin: auto;
+    padding: 10px;
+    padding-top: 50px; /**Testing**/
+}
+
+main {
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+.yo {
+    text-align: center;
+}
+
+.jobtitle {
+    color: black;
+    text-decoration: none;
+}
+
+#laagencia {
+    width: 410px;
+    float: left;
+}
+
+#page {
+    width: 410px;
+    float: right;
+}
+
+#nextgen {
+    width: 410px;
+    float: left;
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+}
+
+.ima:hover {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: crimson;
+}
+
+
+#dbs {
+    width: 410px;
+    float: left;
+}
+
+#iteso {
+    width: 410px;
+    float: right;
+}
+
+#berklee {
+    width: 410px;
+    float: left;
+    
+}
+
+#devskiller {
+    width: 410px;
+    float: right;
+}
+
+#hubspot {
+    width: 410px;
+    float: left;
+    
+}
+
+footer {
+    width: 750px;
+    height: 80px;
+    background-color: rgb(247, 233, 181);
+    margin: auto;
+}
+
+.formname {
+    border-left-color: black;
+    border-left-style: solid ;
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 22px;
+    width: 310px;
+}
+
+#textbox {
+    border-left-color: black ;
+    border-left-style: solid;
+    border-radius: 8px;
+    margin-left: 22px;
+    height: 300px; 
+    width:672px
+    
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 200px;
+    color:black;
+    border-radius: 8px;
+    border-color: black;
+    background-color: white;
+    font-family: fantasy;
+    width: 300px;
+    height: 30px;
+}
+
+button:hover {
+    margin-top: 20px;
+    margin-left: 200px;
+    color:white;
+    border-radius: 8px;
+    border-color:white;
+    background-color: black;
+    font-family: fantasy;
+    width: 300px;
+    height: 30px;
+}
