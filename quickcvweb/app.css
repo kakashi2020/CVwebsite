@@ -6,19 +6,19 @@ html, body {
 
 hr {
     width: 650px;
+    
 }
-
 #navigationbar {
     font-size: 20px;
     text-align: center;
     word-spacing: 30px;
     margin: 20px;
-    background-color: cornsilk; /**Testing**/
-    position: fixed; /**Testing**/
-    padding: 15px 15px; /**Testing**/
-    margin-top: 5px; /**Testing**/
-    margin-left: 370px; /**Testing**/
-    width: 750px; /**Testing**/
+    background-color: cornsilk; 
+    position: fixed; 
+    padding: 15px 15px; 
+    margin-top: -40px; /**Testing**/
+    margin-left: -30px; /**Testing**/
+    width: 750px; 
 }
 
 #navigationbar a {
