@@ -160,3 +160,18 @@ button:hover {
     width: 300px;
     height: 30px;
 }
+
+.thanksfor {
+    margin-top: 45px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.thanksima {
+    width: 221px;
+    height: 292px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
