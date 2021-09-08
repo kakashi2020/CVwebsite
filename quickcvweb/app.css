@@ -28,6 +28,7 @@ hr {
 
 #navigationbar a:hover {
     color: blue;
+    cursor: pointer;
 }
 
 .summary {
@@ -80,6 +81,7 @@ img {
     height: 200px;
     border-style: solid;
     border-color: crimson;
+    cursor: pointer;
 }
 
 
